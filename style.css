@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+    color:rgb(226, 13, 180);
+    font-family:"Pixelify Sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: blue;
+    color: rgb(225, 20, 146)
+    font-family: "Pixelify Sans", sans-serif;
+}
