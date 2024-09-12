@@ -11,6 +11,14 @@ body{
 
 button{
     background-color: blue;
-    color: rgb(225, 20, 146)
-    font-family: "Pixelify Sans", sans-serif;
+    color: rgb(225, 20, 146);
+    font-family:"Pixelify Sans", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
 }
